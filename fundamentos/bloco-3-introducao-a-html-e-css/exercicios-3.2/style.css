@@ -1,12 +1,26 @@
 h1 { 
   size: 65px;
   color: #ffa500;
+  font-family: sans-serif;
 }
 
 li {
-  background-color: red;
+  background-color: black;
+  text-decoration: dotted;
 }
 
 .cores {
   background-color: green;
 }
+
+p {
+  font-weight: 600;
+  font-style: italic;
+  text-align: right;
+  font-size: 58px;
+}
+
+body{
+    font-size: 16px;
+}
+
