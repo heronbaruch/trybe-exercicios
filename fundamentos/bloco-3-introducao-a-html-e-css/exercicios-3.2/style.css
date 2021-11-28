@@ -1,0 +1,12 @@
+h1 { 
+  size: 65px;
+  color: #ffa500;
+}
+
+li {
+  background-color: red;
+}
+
+.cores {
+  background-color: green;
+}
