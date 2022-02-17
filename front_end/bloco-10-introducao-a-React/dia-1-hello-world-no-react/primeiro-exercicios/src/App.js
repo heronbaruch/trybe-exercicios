@@ -8,6 +8,7 @@ const Task = (value) => {
     <li>{list}</li>
   );
 }
+
 function App() {
   return (
     <div>
